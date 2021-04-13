@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    background: url(banner.jpg);
+    min-height: 500px;
+    background-size: cover;
+}
+.banner p{
+    font-size: 100px ;
+    text-align:center;
+    color:aliceblue;
+}
+.services{
+    background-color: red;
+    min-height: 300px;
+}
+.contact{
+    min-height: 500px;
+}
